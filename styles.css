@@ -1,0 +1,155 @@
+body
+{
+	background-color: #000000;
+	color: #C0C0C0;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+#container
+{
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#logo
+{
+	width:170px;
+	float:left;
+}
+#teddybear
+{	
+	float:left;
+}
+#title
+{
+	width: 497px;
+	font-size: 40px;
+	text-align: center;
+	color: #C0C0C0;
+	padding: 15px;
+	min-height: 85px;
+	float:left;
+}
+#clock
+{
+	width:180px;
+	font-size: 35px;
+	text-align:center;
+	color: #C0C0C0;
+	padding: 15px;
+	min-height: 85px;
+	float:left;
+}
+#title_1
+{
+	width: 222px;
+	background-color: #808080;
+	text-align: center;
+	padding: 10px;
+	border-style: solid;
+	clear:both;
+	float:left;
+}
+#title_2
+{
+	width: 221px;
+	background-color: #808080;
+	text-align: center;
+	padding: 10px;
+	border-style: solid;
+	float:left;
+}
+#title_3
+{	
+	width: 221px;
+	background-color: #808080;
+	text-align: center;
+	padding: 10px;
+	border-style: solid;
+	float:left;
+}
+#title_4
+{
+	width: 222px;
+	background-color: #808080;
+	text-align: center;
+	padding: 10px;
+	border-style: solid;
+	float:left;
+}
+a.titlelink
+{
+	color: #ffffff;
+	text-decoration:none;
+}
+#rectangle_1
+{	width:110px;
+	margin-left: auto;
+	margin-right: auto;
+	writing-mode: sideways-lr;
+	padding-left:40px;
+	padding-top: 30px;
+	text-align:center;
+	clear:both;
+	float:left;
+}
+#content
+{
+	width:630px;
+	background-color: #808080;
+	color:#000000;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 600px;
+	float:left;
+}
+#list
+{
+	text-align:left;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+#rectangle_2
+{	
+	width:140px;
+	margin-left: 10px;
+	margin-right: auto;
+	float:left;
+}
+#counter
+{
+	width:200px;
+	font-size: 20x;
+	text-align: center;
+	color: #C0C0C0;
+	margin: 5px;
+	border-style: solid;
+	float:left;
+}
+#subskrypcja
+{
+	width:200px;
+	text-align: center;
+	color: #C0C0C0;
+	margin: 5px;
+	border-style: solid;
+	float:left;
+}
+#footer
+{
+	background-color: #808080;
+	text-align: center;
+	padding: 10px;
+	border-style: solid;
+	clear:both;
+}
+#list1, #list2, #list3, #list4, #list5, #list6, #list7
+{
+   display: none;
+} 
+a.listaLink
+{
+	text-decoration:none;
+	color: #000000;
+}
